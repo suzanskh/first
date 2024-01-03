@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.blog{
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f21010;
+}
+.blog p{
+    color: azure;
+}
